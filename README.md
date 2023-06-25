@@ -5,7 +5,7 @@ My first git repository on GitHub! I will use this as an intro to myself and wha
 
 Hello, World! My name is Christian Robles and I've been programming since 8th grade back in 2013.
 
-In 8th grade, I was in an engineering class where we all had to build one continuous assembly line. The class got split into groups for a part of the assembly line and in my group I was responsible for the programming. I used a language similar to Robot-C and I liked how the code just worked. It does exactly what you ask it to. Plus doing an entire semester worth of work in 4 lines of code was pretty cool too...
+In 8th grade, I was in an engineering class where we all had to build one continuous assembly line for transporting a wooden block. The class got split into groups for a part of the assembly line and in my group I was responsible for the programming. I used a language similar to Robot-C and I liked how the code just worked. It does exactly what you ask it to. Plus doing an entire semester worth of work in 4 lines of code was pretty cool too...
 
 After middle school, I went to a magnet high school with a Computer Science program. I graduated in 2017 and a couple days after the ceremony I started working as full-stack web developer. Also after high school, I earned a Bachelors in Computer Science from UNLV.
 
