@@ -1,6 +1,3 @@
-# hello-world
-My first git repository on GitHub! I will use this as an intro to myself and what to expect from me on GitHub.
-
 ## Intro to myself
 
 Hello, World! My name is Christian Robles and I've been programming since 8th grade back in 2013.
