@@ -23,5 +23,5 @@ I hope uploading them will help somebody! Please feel free to submit pull reques
 ##  My Cheatsheets
 
 1. [GitHub](https://github.com/chrisrobles/github-cheatsheet)
-2. [Markdown](https://github.com/chrisrobles/markdown-cheatsheet/blob/main/README.md)
-3. [Git](https://github.com/chrisrobles/git-cheatsheet/)
+2. [Markdown](https://github.com/chrisrobles/markdown-cheatsheet)
+3. [Git](https://github.com/chrisrobles/git-cheatsheet)
