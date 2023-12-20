@@ -30,4 +30,6 @@ I hope uploading them will help somebody! Please feel free to submit pull reques
 
 ## My Projects
 
-Not ready to share yet but stay tuned!
+1. [Personal Website](https://chrisrobles.dev)
+   - [Repository](https://github.com/chrisrobles/personal-website)
+3. [Symfony Example Site and Sandbox](https://github.com/chrisrobles/symfony-sandbox)
