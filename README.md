@@ -1,6 +1,6 @@
 # What to expect from me on here
 
-I plan on uploading my **cheatsheets** here and **personal projects**.
+I plan on uploading my **cheatsheets** and **personal projects** here.
 
 While I learn, I like creating cheatsheets to help me fully understand something and to reference in the future. I grab information from multiple sources including official documentation. I don't plan on making them perfect or to teach someone not familiar with the language/concept everything they need to know, but more of a quick refence and some notes on trickier subjects.
 
