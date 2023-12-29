@@ -11,9 +11,3 @@
 1. [Personal Website](https://chrisrobles.dev)
    - [Repository](https://github.com/chrisrobles/personal-website)
 2. [Symfony Example Site and Sandbox](https://github.com/chrisrobles/symfony-sandbox)
-
-<style>
-   a {
-      color: #f95423
-   }
-</style>
